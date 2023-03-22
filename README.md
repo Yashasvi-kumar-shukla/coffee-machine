@@ -1,5 +1,5 @@
 # coffee-machine
-coffee machine emulator
+#coffee machine emulator
 water = 500
 milk = 500
 coffee = 100
